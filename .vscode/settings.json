@@ -1,0 +1,28 @@
+{
+	"cSpell.ignoreWords": [
+		"acr",
+		"acr azurecr io ratings api",
+		"api",
+		"authorization",
+		"autoscaler",
+		"azurecr",
+		"healthz",
+		"horizontal",
+		"horizontal pod autoscaler",
+		"io",
+		"k",
+		"letsencrypt",
+		"mongoconnection",
+		"mongodb",
+		"mongodb uri",
+		"mongosecret",
+		"pod",
+		"ratings",
+		"rbac",
+		"rbac authorization k s io v",
+		"replicasets",
+		"s",
+		"uri",
+		"v"
+	]
+}
